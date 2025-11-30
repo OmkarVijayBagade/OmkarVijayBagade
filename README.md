@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Omkar Bagade
-**A passionate Tech Enthusiast  || Computer Engineer || Undergraduate from SavitriBai Phule University**
+**A passionate Tech Enthusiast || iOS UI developer  || Computer Engineer || Undergraduate from SavitriBai Phule University**
 
 Email Me 👉 ✉️ **omkarbagade16@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
