@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **omkarbagade16@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-My Portfolio 👉 **[https://omkarvijaybagade.github.io/Portfolio/](https://omkarbagade.vercel.app)**
+My Portfolio 👉 **(https://omkarbagade.vercel.app)**
 
 - 🌱 **I’m currently learning:** iOS application development
 - 📫 **How to reach me:** omkarbagade16@gmail.com
