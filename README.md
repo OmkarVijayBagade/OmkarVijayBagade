@@ -5,6 +5,7 @@ Email Me 👉 ✉️ **omkarbagade16@gmail.com** For Collaboration/Project or An
 
 My Portfolio 👉 **(https://omkarbagade.vercel.app)**
 
+DINQ Card 👉 **( https://dinq.me/omkarbagade )**
 - 🌱 **I’m currently learning:** iOS application development
 - 📫 **How to reach me:** omkarbagade16@gmail.com
   
