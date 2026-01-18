@@ -1,12 +1,12 @@
 # 💫 Hi 👋, I'm Omkar Bagade
-**A passionate Tech Enthusiast || iOS UI developer  || Computer Engineer || Undergraduate from SavitriBai Phule University**
+**A passionate Tech Enthusiast || Application UI developer  || Computer Engineer || Undergraduate from SavitriBai Phule University**
 
 Email Me 👉 ✉️ **omkarbagade16@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 My Portfolio 👉 **(https://omkarbagade.vercel.app)**
 
 DINQ Card 👉 **( https://dinq.me/omkarbagade )**
-- 🌱 **I’m currently learning:** iOS application development
+- 🌱 **I’m currently learning:** application development using flutter&swiftUI
 - 📫 **How to reach me:** omkarbagade16@gmail.com
   
 ## 🌐 Socials:
