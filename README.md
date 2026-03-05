@@ -1,32 +1,27 @@
 <h1 align="left">Omkar Bagade</h1>
 
 <p align="left">
-Computer Engineering Undergraduate • Application Developer • Tech Enthusiast  
+Application Developer • Tech Enthusiast  
 SavitriBai Phule Pune University
 </p>
 
 <table>
 <tr>
-<td width="70%">
+<td width="60%">
 
 ### About Me
-
 - Computer Engineering undergraduate  
 - Interested in **Application Development, Backend Systems, and AI-driven tools**
-- Currently learning **Flutter and SwiftUI**
 - Exploring **DSA, system design, and full-stack development**
 
 ### Portfolio
-
 - Portfolio → https://omkarbagade.vercel.app  
 - DINQ Card → https://dinq.me/omkarbagade  
 
 ### Contact
-
 Email → **omkarbagade16@gmail.com**
 
 ### Tech Stack
-
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -40,9 +35,7 @@ Email → **omkarbagade16@gmail.com**
 
 </td>
 
-<td width="30%" align="right">
-
-### Connect
+<td width="10%" align="right">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarvijaybagade/)
 
