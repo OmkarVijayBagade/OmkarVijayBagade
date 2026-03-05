@@ -7,7 +7,7 @@ SavitriBai Phule Pune University
 
 <table>
 <tr>
-<td width="60%">
+<td width="70%">
 
 ### About Me
 - Computer Engineering undergraduate  
@@ -35,7 +35,7 @@ Email → **omkarbagade16@gmail.com**
 
 </td>
 
-<td width="10%" align="right">
+<td width="15%" align="right">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarvijaybagade/)
 
