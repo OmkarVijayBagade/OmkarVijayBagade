@@ -1,26 +1,59 @@
-<!-- # 💫 Hi 👋, I'm Omkar Bagade -->
-**A passionate Tech Enthusiast || Application Developer  || Computer Engineer || Undergraduate from SavitriBai Phule University**
+<h1 align="left">Omkar Bagade</h1>
 
-Email Me 👉 ✉️ **omkarbagade16@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="left">
+Computer Engineering Undergraduate • Application Developer • Tech Enthusiast  
+SavitriBai Phule Pune University
+</p>
 
-My Portfolio 👉 **(https://omkarbagade.vercel.app)**
+<table>
+<tr>
+<td width="70%">
 
-DINQ Card 👉 **( https://dinq.me/omkarbagade )**
-- 🌱 **I’m currently learning:** application development using flutter&swiftUI
-- 📫 **How to reach me:** omkarbagade16@gmail.com
-  
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+### About Me
 
-##                                                                                                                                   🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarvijaybagade/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Omkar_vijay_bagade) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/omkarbagade16) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@RedSpills) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarbagade16@gmail.com) 
-<!-- Snake Game Repo View -->
+- Computer Engineering undergraduate  
+- Interested in **Application Development, Backend Systems, and AI-driven tools**
+- Currently learning **Flutter and SwiftUI**
+- Exploring **DSA, system design, and full-stack development**
 
-<!-- <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> -->
+### Portfolio
 
-<!-- ### ✍️ Random Dev Quote
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+- Portfolio → https://omkarbagade.vercel.app  
+- DINQ Card → https://dinq.me/omkarbagade  
 
+### Contact
 
+Email → **omkarbagade16@gmail.com**
+
+### Tech Stack
+
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask)
+![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-FE4B4B?style=flat&logo=streamlit&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-F5792A?style=flat&logo=blender&logoColor=white)
+
+</td>
+
+<td width="30%" align="right">
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarvijaybagade/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/Omkar_vijay_bagade)
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@RedSpills)
+
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white)](https://pinterest.com/omkarbagade16)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarbagade16@gmail.com)
+
+</td>
+</tr>
+</table>
