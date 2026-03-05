@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Omkar Bagade
+<!-- # 💫 Hi 👋, I'm Omkar Bagade -->
 **A passionate Tech Enthusiast || Application Developer  || Computer Engineer || Undergraduate from SavitriBai Phule University**
 
 Email Me 👉 ✉️ **omkarbagade16@gmail.com** For Collaboration/Project or Anything Else. 😊😊
