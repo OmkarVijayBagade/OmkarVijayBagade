@@ -43,8 +43,6 @@ Email → **omkarbagade16@gmail.com**
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@RedSpills)
 
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white)](https://pinterest.com/omkarbagade16)
-
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarbagade16@gmail.com)
 
 </td>
